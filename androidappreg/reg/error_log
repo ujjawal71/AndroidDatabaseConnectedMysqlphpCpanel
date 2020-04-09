@@ -1,0 +1,35 @@
+[07-Apr-2020 13:53:29 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: YES) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 13:53:29 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 13:55:11 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: YES) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 13:55:11 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 13:55:31 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: YES) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 13:55:31 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 13:55:47 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: YES) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 13:55:47 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 13:56:07 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: YES) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 13:56:07 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 13:58:07 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: YES) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 13:58:07 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 13:58:40 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: YES) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 13:58:40 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 13:58:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: YES) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 13:58:59 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 14:08:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: YES) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 14:08:53 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 14:10:59 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: YES) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 14:10:59 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 14:36:53 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: NO) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 14:36:53 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 14:37:51 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: NO) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 14:37:51 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[07-Apr-2020 14:38:08 UTC] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'csecoder_students'@'localhost' (using password: NO) in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 15
+[07-Apr-2020 14:38:08 UTC] PHP Fatal error:  Call to undefined function mysqli_connect_err() in /home/csecoder/public_html/androidappreg/includes/DbConnect.php on line 19
+[09-Apr-2020 02:51:48 UTC] PHP Warning:  Missing argument 3 for DbOperations::createUser(), called in /home/csecoder/public_html/androidappreg/reg/registerUser.php on line 16 and defined in /home/csecoder/public_html/androidappreg/includes/DbOperations.php on line 16
+[09-Apr-2020 03:46:14 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/csecoder/public_html/androidappreg/includes/DbOperations.php on line 37
+[09-Apr-2020 03:46:18 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/csecoder/public_html/androidappreg/includes/DbOperations.php on line 37
+[09-Apr-2020 03:46:34 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/csecoder/public_html/androidappreg/includes/DbOperations.php on line 37
+[09-Apr-2020 03:46:48 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/csecoder/public_html/androidappreg/includes/DbOperations.php on line 37
+[09-Apr-2020 03:47:11 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/csecoder/public_html/androidappreg/includes/DbOperations.php on line 37
+[09-Apr-2020 03:47:19 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/csecoder/public_html/androidappreg/includes/DbOperations.php on line 37
+[09-Apr-2020 03:47:24 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/csecoder/public_html/androidappreg/includes/DbOperations.php on line 37
+[09-Apr-2020 03:47:59 UTC] PHP Fatal error:  Call to a member function bind_param() on boolean in /home/csecoder/public_html/androidappreg/includes/DbOperations.php on line 37
